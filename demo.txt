@@ -1,5 +1,0 @@
-﻿привет
-git
-
-git gui
-hello
